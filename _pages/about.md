@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is a test
+I am a MSc. student studing Computer Engineering under the supervision of Dr. [Karteek Popuri](https://diaglab.cs.mun.ca/team/)
 
 A data-driven personal website
 ======
