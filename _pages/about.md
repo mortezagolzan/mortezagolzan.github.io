@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSc. student studing Computer Engineering under the supervision of Dr. [Karteek Popuri](https://diaglab.cs.mun.ca/team/) at Memorial University of Newfoundland in the Dept. of Engineering and Applied Science. My research is on deep learning for medical image analysis.
+I am a MSc. student studing Computer Engineering under the supervision of Dr. [Karteek Popuri](https://diaglab.cs.mun.ca/team/), Prof. Lihong Zhang, and Dr. Telex Ngatched at [Memorial University of Newfoundland](https://www.mun.ca) in the Dept. of Engineering and Applied Science. My research is on Medical Image Analysis.
 
 ## Publications
-- **Konz, N.**, Gu, H., Dong, H. and Mazurowski, M. A. "The Intrinsic Manifolds of Radiological Images and their Role in Deep Learning". *The International Conference of Medical Image Computing and Computer Assisted Intervention (MICCAI) 2022*. [Link](https://arxiv.org/abs/2207.02797)
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **Morteza Golzan**, Telex M. N. Ngatched, Lihong Zhang, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Mirza Faisal Beg, Karteek Popuri "Assessing the accuracy of estimating whole body SKM from L3 single slice and whole illiopsoas SKM". *16th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
+- Mirza Faisal Beg, **Morteza Golzan**, Lihong Zhang, Telex M. N. Ngatched, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Karteek Popuri "Is single-slice (L3mid) regression-based assessment of SKM, VAT, SAT accurate for individual patient level analysis?". *T6th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
 
 Getting started
 ======
