@@ -10,7 +10,7 @@ author_profile: true
 
 - ENGI 7410-9804: Image Processing & Applications~⁺ (Spring 2023)
   - Under Doctor Stephen Czarnuch
-- ENGI 4300: Electronics II⁺ (Spring 2023)
+- ENGI 4300: Electronics I⁺ (Spring 2023)
   - Under Professor Lihong Zhang
 - ENGI-9818-001: Computer Software Foundations~⁺ (Winter 2023)
   - Under Doctor Ebrahim Karami
