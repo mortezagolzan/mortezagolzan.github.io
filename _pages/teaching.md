@@ -8,6 +8,10 @@ author_profile: true
 ## Memorial University of Newfoundland
 *(Graduate~ & Undergraduate⁺ Teaching Assistant)*
 
+- ENGI 1020: Introduction to Programming⁺ (Fall 2023)
+  - Under Doctor Eranga Fernando
+- COMP 1001: Introduction to Programming⁺ (Fall 2023)
+  - Under Doctor Steph MacIntyre
 - ENGI 7410-9804: Image Processing & Applications~⁺ (Spring 2023)
   - Under Doctor Stephen Czarnuch
 - ENGI 4300: Electronics I⁺ (Spring 2023)
