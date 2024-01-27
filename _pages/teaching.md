@@ -8,6 +8,8 @@ author_profile: true
 ## Memorial University of Newfoundland
 *(Graduate~ & Undergraduate⁺ Teaching Assistant)*
 
+- COMP/ENGI 6892/9805: Computer Vision~ (Winter 2024)
+  - Under Doctor Karteek Popuri
 - ENGI 1020: Introduction to Programming⁺ (Fall 2023)
   - Under Doctor Eranga Fernando
 - COMP 1001: Introduction to Programming⁺ (Fall 2023)
