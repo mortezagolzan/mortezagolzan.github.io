@@ -7,7 +7,8 @@ author_profile: true
 
 ## Memorial University of Newfoundland
 *(Graduate~ & Undergraduate⁺ Teaching Assistant)*
-
+- ENGI 7410-9804: Image Processing & Applications~⁺ (Spring 2024)
+  - Under Doctor Stephen Czarnuch
 - COMP/ENGI 6892/9805: Computer Vision~ (Winter 2024)
   - Under Doctor Karteek Popuri
 - ENGI 1020: Introduction to Programming⁺ (Fall 2023)
