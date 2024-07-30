@@ -4,4 +4,4 @@ title: "CV and Coursework"
 permalink: /cv/
 author_profile: true
 ---
-## [My CV](../images/resume.png)
+![MY CV](../images/resume.png)
