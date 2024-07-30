@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV and Coursework"
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
