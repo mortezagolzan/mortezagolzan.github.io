@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am an MSc. student studying Computer Engineering under the supervision of Dr. [Karteek Popuri](https://diaglab.cs.mun.ca/team/), Prof. Lihong Zhang, and Dr. Telex Ngatched at [Memorial University of Newfoundland](https://www.mun.ca) in the Department of Engineering and Applied Science. My research is on Medical Image Analysis.
+I am generally interested in problems where deep learning algorithms can be applied and make breakthroughs.
 
 ## Publications
 - **Morteza Golzan**, Telex M. N. Ngatched, Lihong Zhang, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Mirza Faisal Beg, Karteek Popuri "Assessing the accuracy of estimating whole body SKM from L3 single slice and whole illiopsoas SKM". *16th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
