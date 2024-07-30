@@ -13,7 +13,8 @@ I am generally interested in problems where deep learning algorithms can be appl
 
 ## Publications
 - **Morteza Golzan**, Telex M. N. Ngatched, Lihong Zhang, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Mirza Faisal Beg, Karteek Popuri "Assessing the accuracy of estimating whole body SKM from L3 single slice and whole illiopsoas SKM". *16th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
-- Mirza Faisal Beg, **Morteza Golzan**, Lihong Zhang, Telex M. N. Ngatched, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Karteek Popuri "Is single-slice (L3mid) regression-based assessment of SKM, VAT, SAT accurate for individual patient level analysis?". *T6th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
+- Mirza Faisal Beg, **Morteza Golzan**, Lihong Zhang, Telex M. N. Ngatched, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Karteek Popuri "Is single-slice (L3mid) regression-based assessment of SKM, VAT, SAT accurate for individual patient level analysis?". *16th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
+- **Morteza Golzan**, Jafar Sobhi, and Ziaddin Daie Koozehkanani. "An open-loop time amplifier with zero-gain delay in output for coarse-fine time to digital converters." *29th Iranian Conference on Electrical Engineering (ICEE), pp. 139-142. IEEE, 2021*.
 
 My CV can be found [here](https://mortezagolzan.github.io/cv/).
 
