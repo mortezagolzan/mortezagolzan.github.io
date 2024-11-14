@@ -12,7 +12,7 @@ I am a MSc. student studying Computer Engineering under the supervision of Dr. [
 I am generally interested in problems where deep learning algorithms can be applied and make breakthroughs.
 
 ## Publications
-- Aylar Abouzarkhanifard, **Morteza Golzan**, Ting Zou, Mohammad Al Janaideh, Lihong Zhang "Design and Optimization of Wideband MEMS Energy Harvester Using Graph Neural Network." *IEEE SENSORS 2024*
+- Ahsan Mustafa, **Morteza Golzan**, Zhenxin Zhao, Hamed Nasiri, Lihong Zhang "Fine-tuning of large language models for analog circuitry." *NECEC 2024*
 - **Morteza Golzan**, Hamed Nasiri, Telex M. N. Ngatched, Karteek Popuri and Lihong Zhang "Advanced Performance Estimation of Analog Layouts Using Convolutional Neural Networks." *2024 IEEE 20th International Conference on Intelligent Computer Communication and Processing*.
 - **Morteza Golzan**, Telex M. N. Ngatched, Lihong Zhang, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Mirza Faisal Beg, Karteek Popuri "Assessing the accuracy of estimating whole body SKM from L3 single slice and whole illiopsoas SKM". *16th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
 - Mirza Faisal Beg, **Morteza Golzan**, Lihong Zhang, Telex M. N. Ngatched, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Karteek Popuri "Is single-slice (L3mid) regression-based assessment of SKM, VAT, SAT accurate for individual patient level analysis?". *16th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
