@@ -1,23 +1,44 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "AI Engineer building practical AI systems"
+excerpt: "Generative AI, RAG systems, workflow automation, and applied ML."
 author_profile: true
-redirect_from: 
+classes: wide
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a MSc. student studying Computer Engineering under the supervision of Dr. [Karteek Popuri](https://diaglab.cs.mun.ca/team/), Prof. Lihong Zhang, and Dr. Telex Ngatched at [Memorial University of Newfoundland](https://www.mun.ca) in the Department of Engineering and Applied Science. My research is on Medical Image Analysis.
-I am generally interested in problems where deep learning algorithms can be applied and make breakthroughs.
+I’m **Morteza Golzan**, an **AI Engineer** focused on building practical AI systems that solve real business problems.
 
-## Publications
-- Ahsan Mustafa, **Morteza Golzan**, Zhenxin Zhao, Hamed Nasiri, Lihong Zhang "Fine-tuning of large language models for analog circuitry." *NECEC 2024*
-- **Morteza Golzan**, Hamed Nasiri, Telex M. N. Ngatched, Karteek Popuri and Lihong Zhang "Advanced Performance Estimation of Analog Layouts Using Convolutional Neural Networks." *2024 IEEE 20th International Conference on Intelligent Computer Communication and Processing*.
-- **Morteza Golzan**, Telex M. N. Ngatched, Lihong Zhang, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Mirza Faisal Beg, Karteek Popuri "Assessing the accuracy of estimating whole body SKM from L3 single slice and whole illiopsoas SKM". *16th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
-- Mirza Faisal Beg, **Morteza Golzan**, Lihong Zhang, Telex M. N. Ngatched, Maciej Michalak, Janusz Hałka, Da Ma, Vincent Chow, Hyunwoo Lee, Karteek Popuri "Is single-slice (L3mid) regression-based assessment of SKM, VAT, SAT accurate for individual patient level analysis?". *16th International  Conference of the Society on Cachexia, Sarcopenia & Muscle Wasting 2023*.
-- **Morteza Golzan**, Jafar Sobhi, and Ziaddin Daie Koozehkanani. "An open-loop time amplifier with zero-gain delay in output for coarse-fine time to digital converters." *29th Iranian Conference on Electrical Engineering (ICEE), pp. 139-142. IEEE, 2021*.
+My recent work has centered on **Generative AI**, including **multi-tenant RAG platforms**, **conversational AI systems**, and **LLM-powered workflow automation**. I’m especially interested in products where modern AI has to work reliably inside real operational environments—not just in demos.
 
-My CV can be found [here](https://mortezagolzan.github.io/cv/).
+Alongside LLM systems, I’ve worked on applied machine learning problems in **computer vision**, **OCR**, and predictive modeling. That includes building solutions for **handwriting recognition in fraud-related workflows**, as well as earlier work in **medical image analysis**, **analog layout performance prediction**, and **face anti-spoofing**.
 
-In my free time, I enjoy painting and listening to music as a way to relax and express myself creatively.
+I also hold an **MSc in Computer Engineering** from Memorial University of Newfoundland, where my work focused on applied machine learning and medical image analysis.
+
+## What I work on
+
+- **Generative AI systems** for enterprise use cases
+- **Retrieval-augmented generation (RAG)** and knowledge assistants
+- **LLM workflow automation** and AI-enabled operations
+- **Computer vision and OCR** for document and image understanding
+- **Applied ML systems** that need to be accurate, maintainable, and production-minded
+
+## Selected focus areas
+
+### Enterprise conversational AI and RAG
+I’ve worked on AI systems designed for real users and real organizations, with attention to retrieval quality, tenant separation, reliability, and practical product constraints.
+
+### LLM-powered workflow automation
+I’m interested in using LLMs to reduce repetitive work, improve process efficiency, and help teams move faster with better context and decision support.
+
+### OCR and intelligent document workflows
+I’ve contributed to handwriting OCR and related document-processing problems where model quality directly affects downstream business workflows.
+
+## A few things that matter to me
+
+- Building AI that is actually useful in production
+- Balancing model capability with system reliability
+- Clear product thinking, not just model experimentation
+- Turning ambiguous problems into practical shipped solutions

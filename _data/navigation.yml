@@ -1,11 +1,16 @@
-# main links links
+# main links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "Home"
+    url: /
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Gallary"
-    url: /gallary/    
-    
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Contact"
+    url: /contact/
