@@ -55,7 +55,6 @@ Currently, I'm contributing to an **$8M multi-year AI initiative** (at Focus FS)
 <span class="tech-tag">MLOps</span>
 <span class="tech-tag">REST APIs</span>
 <span class="tech-tag">Git</span>
-<span class="tech-tag">Compute Canada</span>
 </div>
 
 ## Highlights
