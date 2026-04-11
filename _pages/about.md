@@ -11,7 +11,7 @@ redirect_from:
 
 I build production AI systems that solve real operational problems. My work spans **Generative AI**, **Computer Vision**, and **scalable MLOps** -- with a focus on deploying models that perform reliably where it matters, not just in demos.
 
-Currently, I'm contributing to an **$8M multi-year AI initiative** embedding intelligent automation into offshore energy and industrial safety workflows. Before that, I worked on fraud detection AI, medical imaging research, and health-tech signal processing.
+Currently, I'm contributing to an **$8M multi-year AI initiative** (at Focus FS) embedding intelligent automation into offshore energy and industrial safety workflows. Before that, I worked on fraud detection AI, medical imaging research, and health-tech signal processing.
 
 <div class="feature-row">
 

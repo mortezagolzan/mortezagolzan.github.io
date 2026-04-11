@@ -10,7 +10,7 @@ classes: wide
 
 <div class="timeline-item">
 <div class="timeline-marker"></div>
-<div class="timeline-content">
+<div class="timeline-content" markdown="1">
 <h3>AI Engineer <span class="timeline-company">Focus FS</span></h3>
 <span class="timeline-date">Sep 2025 -- Present</span>
 
@@ -23,7 +23,7 @@ classes: wide
 
 <div class="timeline-item">
 <div class="timeline-marker"></div>
-<div class="timeline-content">
+<div class="timeline-content" markdown="1">
 <h3>Entrepreneurial Lead <span class="timeline-company">Lab2Market Oceans Program</span></h3>
 <span class="timeline-date">Jan 2025 -- Mar 2025</span>
 
@@ -34,7 +34,7 @@ classes: wide
 
 <div class="timeline-item">
 <div class="timeline-marker"></div>
-<div class="timeline-content">
+<div class="timeline-content" markdown="1">
 <h3>AI Developer <span class="timeline-company">Verafin (Nasdaq)</span></h3>
 <span class="timeline-date">Sep 2024 -- Feb 2025</span>
 
@@ -45,7 +45,7 @@ classes: wide
 
 <div class="timeline-item">
 <div class="timeline-marker"></div>
-<div class="timeline-content">
+<div class="timeline-content" markdown="1">
 <h3>Graduate Researcher <span class="timeline-company">Memorial University of Newfoundland</span></h3>
 <span class="timeline-date">Aug 2022 -- May 2025</span>
 
@@ -57,7 +57,7 @@ classes: wide
 
 <div class="timeline-item">
 <div class="timeline-marker"></div>
-<div class="timeline-content">
+<div class="timeline-content" markdown="1">
 <h3>AI Engineer <span class="timeline-company">Radial</span></h3>
 <span class="timeline-date">Nov 2021 -- Nov 2022</span>
 
@@ -68,7 +68,7 @@ classes: wide
 
 <div class="timeline-item">
 <div class="timeline-marker"></div>
-<div class="timeline-content">
+<div class="timeline-content" markdown="1">
 <h3>AI Engineer Intern <span class="timeline-company">Shenasa AI</span></h3>
 <span class="timeline-date">Jun 2021 -- Oct 2021</span>
 
