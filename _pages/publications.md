@@ -2,11 +2,11 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
-Selected publications and research outputs.
+Peer-reviewed publications in AI, deep learning, medical imaging, and circuit design.
 
 {% include base_path %}
 

@@ -2,14 +2,13 @@
 layout: single
 title: "Contact"
 permalink: /contact/
-author_profile: false
-classes: narrow
+author_profile: true
+classes: wide
 ---
 
-The best ways to reach me are:
+I'm always open to connecting on AI engineering, research collaborations, or interesting opportunities.
 
-- **Email:** <a href="mailto:morteza.golzan@gmail.com">morteza.golzan@gmail.com</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/morteza-golzan/">morteza-golzan</a>
-- **GitHub:** <a href="https://github.com/mortezagolzan">mortezagolzan</a>
-
-If you'd like, I can also add a short availability note or collaboration blurb here.
+- **Email:** [morteza.golzan@gmail.com](mailto:morteza.golzan@gmail.com)
+- **LinkedIn:** [linkedin.com/in/morteza-golzan](https://www.linkedin.com/in/morteza-golzan/)
+- **GitHub:** [github.com/mortezagolzan](https://github.com/mortezagolzan)
+- **Google Scholar:** [Morteza Golzan](https://scholar.google.ca/citations?user=7B2tBfcAAAAJ)

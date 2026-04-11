@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Morteza Golzan"
 title_separator          : "-"
 name                     : &name "Morteza Golzan"
-description              : &description "AI Engineer focused on Generative AI, RAG systems, workflow automation, OCR, and applied ML"
+description              : &description "AI Engineer specializing in Generative AI, RAG systems, Computer Vision, and scalable MLOps"
 url                      : https://mortezagolzan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mortezagolzan/mortezagolzan.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Morteza Golzan"
   avatar           : "photo_2022-09-12 19.02.28.jpeg"
-  bio              : "AI Engineer focused on Generative AI, RAG systems, workflow automation, OCR, and applied ML."
-  location         : "NL, Canada"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  bio              : "AI Engineer @ Focus FS | Generative AI | Computer Vision"
+  location         : "St. John's, NL, Canada"
+  employer         : "Focus FS"
+  pubmed           :
+  googlescholar    : "https://scholar.google.ca/citations?user=7B2tBfcAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -1,0 +1,167 @@
+/* Professional modern styling */
+
+/* Typography */
+.page__content {
+  font-size: 1.02rem;
+  line-height: 1.7;
+  color: #1e293b;
+}
+
+.page__content p {
+  margin-bottom: 1.2em;
+}
+
+.page__title {
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #0f172a;
+  font-weight: 700;
+}
+
+/* Navigation */
+.masthead {
+  border-bottom: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.04);
+}
+
+.greedy-nav {
+  background: #ffffff;
+}
+
+.greedy-nav a {
+  color: #334155;
+  font-weight: 500;
+}
+
+.greedy-nav a:hover {
+  color: #0369a1;
+}
+
+.greedy-nav .visible-links a::before {
+  background: #0369a1;
+}
+
+/* Author sidebar */
+.author__avatar img {
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
+}
+
+.author__name {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.author__bio {
+  color: #475569;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.author__content,
+.author__urls-wrapper,
+.sidebar {
+  font-size: 0.92rem;
+}
+
+.author__urls li a {
+  color: #475569;
+}
+
+.author__urls li a:hover {
+  color: #0369a1;
+}
+
+/* Layout */
+.page {
+  max-width: 1280px;
+}
+
+.archive,
+.page__inner-wrap {
+  background: transparent;
+}
+
+/* Links */
+a {
+  color: #0369a1;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: #0284c7;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.15em;
+}
+
+/* Headings */
+.page__content h2 {
+  color: #0f172a;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.4em;
+  margin-top: 2em;
+  font-weight: 700;
+}
+
+.page__content h3 {
+  color: #1e293b;
+  font-weight: 600;
+  margin-top: 1.5em;
+}
+
+/* Horizontal rules */
+.page__content hr {
+  border: 0;
+  border-top: 1px solid #e2e8f0;
+  margin: 2em 0;
+}
+
+/* Strong text accent */
+.page__content strong {
+  color: #0f172a;
+  font-weight: 600;
+}
+
+/* Lists */
+.page__content ul li,
+.page__content ol li {
+  margin-bottom: 0.4em;
+  line-height: 1.6;
+}
+
+/* Notices */
+.notice--primary,
+.notice--info {
+  border-radius: 12px;
+}
+
+/* Archive items (publications, etc.) */
+.archive__item-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 0.5em;
+}
+
+.archive__item-excerpt {
+  font-size: 0.92rem;
+  color: #475569;
+}
+
+/* Footer */
+.page__footer {
+  border-top: 1px solid #e2e8f0;
+  color: #64748b;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .page__content {
+    font-size: 0.98rem;
+  }
+
+  .page__content h2 {
+    font-size: 1.3rem;
+  }
+}

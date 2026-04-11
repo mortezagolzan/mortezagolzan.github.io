@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "AI Engineer building practical AI systems"
-excerpt: "Generative AI, RAG systems, workflow automation, and applied ML."
+title: "About"
+excerpt: "AI Engineer building production AI systems for safety-tech and enterprise operations."
 author_profile: true
 classes: wide
 redirect_from:
@@ -9,36 +9,37 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Morteza Golzan**, an **AI Engineer** focused on building practical AI systems that solve real business problems.
+I'm an **AI Engineer at [Focus FS](https://focusfs.com/)**, where I build production AI systems for the offshore energy and industrial safety sector. My work is part of an **$8M multi-year AI initiative** focused on embedding intelligent automation directly into operational workflows.
 
-My recent work has centered on **Generative AI**, including **multi-tenant RAG platforms**, **conversational AI systems**, and **LLM-powered workflow automation**. I’m especially interested in products where modern AI has to work reliably inside real operational environments—not just in demos.
+I apply AI to solve practical challenges in safety-tech and enterprise operations, with experience building systems that **reduce processing time** and **improve decision-making at scale**. My work spans **Generative AI**, **Computer Vision**, and **scalable MLOps**, with a focus on deploying models that perform reliably in real-world environments.
 
-Alongside LLM systems, I’ve worked on applied machine learning problems in **computer vision**, **OCR**, and predictive modeling. That includes building solutions for **handwriting recognition in fraud-related workflows**, as well as earlier work in **medical image analysis**, **analog layout performance prediction**, and **face anti-spoofing**.
+I hold an **MSc in Computer Engineering** from Memorial University of Newfoundland (GPA: 4.0/4.0), where my research focused on medical image analysis and deep learning for CT scan body composition estimation.
 
-I also hold an **MSc in Computer Engineering** from Memorial University of Newfoundland, where my work focused on applied machine learning and medical image analysis.
+---
 
-## What I work on
+## What I Build
 
-- **Generative AI systems** for enterprise use cases
-- **Retrieval-augmented generation (RAG)** and knowledge assistants
-- **LLM workflow automation** and AI-enabled operations
-- **Computer vision and OCR** for document and image understanding
-- **Applied ML systems** that need to be accurate, maintainable, and production-minded
+- **Enterprise RAG Systems** -- Multi-tenant agentic chatbots with role-based access, conversational memory, and secure document retrieval
+- **LLM Workflow Automation** -- AI-powered safety form generation that reduced manual reporting effort by ~80%
+- **Computer Vision & OCR** -- Transformer-based handwriting recognition for fraud detection workflows
+- **Medical Image Analysis** -- DNN models for whole-body tissue composition estimation from CT scans
+- **Applied ML** -- Cuffless blood pressure measurement, analog circuit performance prediction, face anti-spoofing
 
-## Selected focus areas
+---
 
-### Enterprise conversational AI and RAG
-I’ve worked on AI systems designed for real users and real organizations, with attention to retrieval quality, tenant separation, reliability, and practical product constraints.
+## Technical Focus
 
-### LLM-powered workflow automation
-I’m interested in using LLMs to reduce repetitive work, improve process efficiency, and help teams move faster with better context and decision support.
+- **LLM & GenAI**: LangChain, Azure OpenAI, RAG architectures, prompt engineering, agentic systems
+- **Computer Vision**: PyTorch, CNNs, transformers, medical imaging, OCR
+- **Infrastructure**: Azure cloud services, multi-GPU training (Compute Canada), MLOps, CI/CD
+- **Languages & Tools**: Python, Git, Docker, REST APIs
 
-### OCR and intelligent document workflows
-I’ve contributed to handwriting OCR and related document-processing problems where model quality directly affects downstream business workflows.
+---
 
-## A few things that matter to me
+## Recent Highlights
 
-- Building AI that is actually useful in production
-- Balancing model capability with system reliability
-- Clear product thinking, not just model experimentation
-- Turning ambiguous problems into practical shipped solutions
+- Designed a **production-grade, multi-tenant agentic RAG chatbot** serving enterprise customers in offshore energy
+- Built scalable AI backend services with **LangChain and Azure**, implementing tenant-isolated data access and chat sharing
+- Developed **transformer-based OCR** for handwritten check images at Verafin (Nasdaq), with spell-check post-processing
+- Research featured at the **Atlantic Canada AI Summit 2025** on estimating whole-body tissue composition from CT scans
+- Published at **IEEE ICCP 2024** on CNN-based analog layout performance estimation
