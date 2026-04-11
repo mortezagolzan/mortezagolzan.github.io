@@ -6,53 +6,76 @@ author_profile: true
 classes: wide
 ---
 
-## Multi-Tenant Agentic RAG Chatbot
-**Focus FS** | LangChain, Azure OpenAI, Azure Cloud Services, Python
+<div class="project-grid">
 
-Production-grade conversational AI system for the offshore energy sector. Designed a multi-tenant RAG architecture with agentic capabilities that provides natural language access to enterprise safety reports and operational data. Implemented role-based access controls, tenant-isolated document retrieval, conversational memory (short-term and long-term), and secure chat sharing across users. The system reduced information retrieval time from hours to seconds for field operators.
+<div class="project-card">
+<h3>Multi-Tenant Agentic RAG Chatbot</h3>
+<div class="project-tags">
+<span class="tech-tag">LangChain</span>
+<span class="tech-tag">Azure OpenAI</span>
+<span class="tech-tag">Python</span>
+</div>
+<p>Production-grade conversational AI for the offshore energy sector. Multi-tenant RAG architecture with agentic capabilities, role-based access controls, tenant-isolated document retrieval, and conversational memory. Reduced information retrieval time from hours to seconds.</p>
+</div>
 
----
+<div class="project-card">
+<h3>AI-Powered Safety Form Automation</h3>
+<div class="project-tags">
+<span class="tech-tag">LLMs</span>
+<span class="tech-tag">Azure</span>
+<span class="tech-tag">Workflow Automation</span>
+</div>
+<p>LLM-powered automation that generates safety inspection and reporting forms from operational context. Reduced manual reporting effort by ~80%. Part of an $8M multi-year AI initiative for industrial safety.</p>
+</div>
 
-## AI-Powered Safety Form Automation
-**Focus FS** | LLMs, Azure, Workflow Automation
+<div class="project-card">
+<h3>Handwriting OCR for Fraud Detection</h3>
+<div class="project-tags">
+<span class="tech-tag">PyTorch</span>
+<span class="tech-tag">Transformers</span>
+<span class="tech-tag">OCR</span>
+</div>
+<p>Transformer-based custom OCR system for extracting handwritten text from check images. Designed spell-check post-processing that improved character and word error rates for automated check processing.</p>
+<a href="https://github.com/mortezagolzan/Hand_Writing_Text_Extarction" class="project-link">View on GitHub →</a>
+</div>
 
-Built LLM-powered automation that generates safety inspection and reporting forms from operational context, reducing manual reporting effort by approximately 80%. Part of the company's $8M multi-year AI initiative for embedding intelligent automation into industrial safety workflows.
+<div class="project-card">
+<h3>Whole-Body Tissue Composition from CT Scans</h3>
+<div class="project-tags">
+<span class="tech-tag">PyTorch</span>
+<span class="tech-tag">Medical Imaging</span>
+<span class="tech-tag">Multi-GPU</span>
+</div>
+<p>Processed over 1.1TB of DICOM CT scans and developed deep learning models to estimate whole-body tissue composition. Built field-of-view classifiers and regression models achieving R² of 0.92. Presented at Atlantic Canada AI Summit 2025.</p>
+</div>
 
----
+<div class="project-card">
+<h3>CNN-Based Analog Layout Performance Estimation</h3>
+<div class="project-tags">
+<span class="tech-tag">CNNs</span>
+<span class="tech-tag">Deep Learning</span>
+</div>
+<p>CNN methods for predicting analog circuit performance directly from layout data, reducing the need for time-consuming post-layout simulations. Published at IEEE ICCP 2024.</p>
+</div>
 
-## Handwriting OCR for Fraud Detection
-**Verafin (Nasdaq)** | PyTorch, Transformers, OCR, NLP
+<div class="project-card">
+<h3>Cuffless Blood Pressure Measurement</h3>
+<div class="project-tags">
+<span class="tech-tag">Signal Processing</span>
+<span class="tech-tag">ML</span>
+<span class="tech-tag">ECG/PPG</span>
+</div>
+<p>ML algorithms for non-invasive blood pressure estimation using ECG and PPG signals from a custom-designed electronic wristband. End-to-end health monitoring system.</p>
+</div>
 
-Developed a transformer-based custom OCR system for extracting handwritten text from check images in fraud detection workflows. Designed a spell-check post-processing algorithm that improved character and word error rates, enabling more reliable automated check processing.
+<div class="project-card">
+<h3>Face Anti-Spoofing</h3>
+<div class="project-tags">
+<span class="tech-tag">Deep Learning</span>
+<span class="tech-tag">Computer Vision</span>
+</div>
+<p>Deep neural network to detect presentation attacks on face recognition systems, distinguishing real faces from spoofed inputs under realistic conditions.</p>
+<a href="https://github.com/mortezagolzan" class="project-link">View on GitHub →</a>
+</div>
 
-[GitHub](https://github.com/mortezagolzan/Hand_Writing_Text_Extarction)
-
----
-
-## Whole-Body Tissue Composition Estimation from CT Scans
-**Memorial University** | PyTorch, Multi-GPU Training, Medical Imaging, Compute Canada
-
-Processed over 1.1TB of DICOM CT scan images and developed deep learning models to estimate whole-body tissue composition (skeletal muscle, adipose tissue) from sub-body CT scans. Built a DNN classifier for body field-of-view detection and ML regression models achieving an average R-squared of 0.92 across target tissues. Research presented at the Atlantic Canada AI Summit 2025.
-
----
-
-## CNN-Based Analog Layout Performance Estimation
-**Memorial University** | CNNs, Deep Learning, Circuit Design Automation
-
-Explored CNN-based methods for predicting analog circuit performance directly from layout data, reducing the need for time-consuming post-layout simulations. Published at IEEE ICCP 2024.
-
----
-
-## Cuffless Blood Pressure Measurement
-**Radial** | Signal Processing, ML, ECG/PPG Data
-
-Developed ML algorithms for non-invasive, cuffless blood pressure estimation using ECG and PPG signals from a custom-designed electronic wristband. Collaborated with hardware and firmware teams on an end-to-end health monitoring system.
-
----
-
-## Face Anti-Spoofing
-**Shenasa AI** | Deep Learning, Computer Vision
-
-Built a deep neural network to detect presentation attacks on face recognition systems, distinguishing real faces from spoofed inputs (photos, screens, masks) under realistic conditions.
-
-[GitHub](https://github.com/mortezagolzan)
+</div>
