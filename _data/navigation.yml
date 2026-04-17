@@ -11,6 +11,3 @@ main:
 
   - title: "Contact"
     url: /contact/
-
-  - title: "Viewer Stats"
-    url: /viewer-stats/
