@@ -542,6 +542,53 @@ a:hover {
 }
 
 /* ==========================================================================
+   Viewer Stats Page
+   ========================================================================== */
+
+.viewer-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.4rem 0 1rem;
+}
+
+.viewer-stat-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.2rem 1.3rem;
+}
+
+.viewer-stat-label {
+  color: #64748b;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.viewer-stat-value {
+  color: #0f172a;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-top: 0.4rem;
+}
+
+.viewer-stats-note,
+.viewer-stats-meta {
+  color: #64748b;
+  font-size: 0.9rem;
+  margin: 0.4rem 0;
+}
+
+@media (max-width: 600px) {
+  .viewer-stats-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ==========================================================================
    Responsive
    ========================================================================== */
 
