@@ -7,14 +7,14 @@
   var totalViewsKey = "site-total-views";
 
   async function incrementAndGetCount() {
-    var url = "https://api.counterapi.dev/v1/" + namespace + "/" + totalViewsKey + "/up";
+    var url = "https://abacus.jasoncameron.dev/hit/" + namespace + "/" + totalViewsKey;
     var response = await fetch(url, { method: "GET", cache: "no-store" });
     if (!response.ok) {
       throw new Error("Count API request failed.");
     }
 
     var body = await response.json();
-    return typeof body.count === "number" ? body.count : 0;
+    return typeof body.value === "number" ? body.value : 0;
   }
 
   async function renderFooterViewCount() {
