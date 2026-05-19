@@ -29,6 +29,18 @@ classes: wide
 </div>
 
 <div class="project-card">
+<h3>VLA-LLM Robotic Arm</h3>
+<div class="project-tags">
+<span class="tech-tag">VLA</span>
+<span class="tech-tag">LLM</span>
+<span class="tech-tag">Robotics</span>
+</div>
+<p>Shared research project with Bijan Roudini and Hamed Nasiri focused on industrial physical AI. Built a two-layer robotic system that combines a Vision-Language-Action policy (RGB-to-action control) with an LLM planner (instruction-to-step decomposition), plus failure recovery and safety constraints for robust real-world manipulation.</p>
+<a href="https://www.bijanroudini.com/projects/vla-llm-robotic-arm" class="project-link">Project Page →</a>
+<a href="https://github.com/BijanProjects/GripWare" class="project-link">View on GitHub →</a>
+</div>
+
+<div class="project-card">
 <h3>Handwriting OCR for Fraud Detection</h3>
 <div class="project-tags">
 <span class="tech-tag">PyTorch</span>
