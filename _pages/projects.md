@@ -87,7 +87,7 @@ classes: wide
 <span class="tech-tag">Computer Vision</span>
 </div>
 <p>Deep neural network to detect presentation attacks on face recognition systems, distinguishing real faces from spoofed inputs under realistic conditions.</p>
-<a href="https://github.com/mortezagolzan" class="project-link">View on GitHub →</a>
+<a href="https://github.com/mortezagolzan/Face-Anti-Spoofing" class="project-link">View on GitHub →</a>
 </div>
 
 </div>
